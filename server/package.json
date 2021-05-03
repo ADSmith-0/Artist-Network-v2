@@ -4,7 +4,8 @@
   "description": "Artist Network Server",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js"
+    "run": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
