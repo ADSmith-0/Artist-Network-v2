@@ -1,0 +1,16 @@
+{
+  "name": "dataparser",
+  "version": "1.0.0",
+  "description": "Program to convert spotify data into database data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Adam Smith",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
